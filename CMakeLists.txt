@@ -3,4 +3,4 @@ project(Clionproject)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Clionproject "5/P1308 .cpp")
+add_executable(Clionproject "5/P1553 .cpp")
