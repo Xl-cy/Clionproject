@@ -75,27 +75,27 @@ include CMakeFiles/Clionproject.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Clionproject.dir/flags.make
 
-CMakeFiles/Clionproject.dir/5/P1553_.cpp.obj: CMakeFiles/Clionproject.dir/flags.make
-CMakeFiles/Clionproject.dir/5/P1553_.cpp.obj: ../5/P1553\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\10604\Desktop\Clionproject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Clionproject.dir/5/P1553_.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Clionproject.dir\5\P1553_.cpp.obj -c "C:\Users\10604\Desktop\Clionproject\5\P1553 .cpp"
+CMakeFiles/Clionproject.dir/5/P1598_.cpp.obj: CMakeFiles/Clionproject.dir/flags.make
+CMakeFiles/Clionproject.dir/5/P1598_.cpp.obj: ../5/P1598\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\10604\Desktop\Clionproject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Clionproject.dir/5/P1598_.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Clionproject.dir\5\P1598_.cpp.obj -c "C:\Users\10604\Desktop\Clionproject\5\P1598 .cpp"
 
-CMakeFiles/Clionproject.dir/5/P1553_.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Clionproject.dir/5/P1553_.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\10604\Desktop\Clionproject\5\P1553 .cpp" > CMakeFiles\Clionproject.dir\5\P1553_.cpp.i
+CMakeFiles/Clionproject.dir/5/P1598_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Clionproject.dir/5/P1598_.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\10604\Desktop\Clionproject\5\P1598 .cpp" > CMakeFiles\Clionproject.dir\5\P1598_.cpp.i
 
-CMakeFiles/Clionproject.dir/5/P1553_.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Clionproject.dir/5/P1553_.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\10604\Desktop\Clionproject\5\P1553 .cpp" -o CMakeFiles\Clionproject.dir\5\P1553_.cpp.s
+CMakeFiles/Clionproject.dir/5/P1598_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Clionproject.dir/5/P1598_.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\10604\Desktop\Clionproject\5\P1598 .cpp" -o CMakeFiles\Clionproject.dir\5\P1598_.cpp.s
 
 # Object files for target Clionproject
 Clionproject_OBJECTS = \
-"CMakeFiles/Clionproject.dir/5/P1553_.cpp.obj"
+"CMakeFiles/Clionproject.dir/5/P1598_.cpp.obj"
 
 # External object files for target Clionproject
 Clionproject_EXTERNAL_OBJECTS =
 
-Clionproject.exe: CMakeFiles/Clionproject.dir/5/P1553_.cpp.obj
+Clionproject.exe: CMakeFiles/Clionproject.dir/5/P1598_.cpp.obj
 Clionproject.exe: CMakeFiles/Clionproject.dir/build.make
 Clionproject.exe: CMakeFiles/Clionproject.dir/linklibs.rsp
 Clionproject.exe: CMakeFiles/Clionproject.dir/objects1.rsp
