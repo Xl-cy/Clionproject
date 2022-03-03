@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/10604/Desktop/Clionproject/6/P5744 .cpp" "CMakeFiles/Clionproject.dir/6/P5744_.cpp.obj" "gcc" "CMakeFiles/Clionproject.dir/6/P5744_.cpp.obj.d"
+  "C:/Users/10604/Desktop/Clionproject/107/P1012 .cpp" "CMakeFiles/Clionproject.dir/107/P1012_.cpp.obj" "gcc" "CMakeFiles/Clionproject.dir/107/P1012_.cpp.obj.d"
   )
 
 # Targets to which this target links.
