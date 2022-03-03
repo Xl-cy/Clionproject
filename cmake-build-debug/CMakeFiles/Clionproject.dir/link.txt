@@ -1,3 +1,3 @@
 "C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Clionproject.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Clionproject.dir/objects.a @CMakeFiles\Clionproject.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe qc CMakeFiles\Clionproject.dir/objects.a @CMakeFiles\Clionproject.dir\objects1.rsp
 C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Clionproject.dir/objects.a -Wl,--no-whole-archive -o Clionproject.exe -Wl,--out-implib,libClionproject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Clionproject.dir\linklibs.rsp

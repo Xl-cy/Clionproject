@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Clionproject.dir/5/P1598_.cpp.obj"
+  "CMakeFiles/Clionproject.dir/6/P5744_.cpp.obj"
+  "CMakeFiles/Clionproject.dir/6/P5744_.cpp.obj.d"
   "Clionproject.exe"
   "Clionproject.exe.manifest"
   "Clionproject.pdb"
