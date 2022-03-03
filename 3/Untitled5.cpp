@@ -4,10 +4,10 @@ int main ()
 {
 	int n;
 	cin>>n;
-	double double count=0;
+	double count=0;
 	for(int i=1;i<=n;i++){
 		int j=i;
-		double double temp=1;
+		double temp=1;
 		while(j!=1){
 			temp*=j;
 			j=j-1;
